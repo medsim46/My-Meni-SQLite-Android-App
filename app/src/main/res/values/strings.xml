@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application SQLlitee</string>
+    <string name="authentification">authentification</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="hintlogin" />
+    <string name="hintloginn">Enter your email</string>
+    <string name="bLogin">Login</string>
+    <string name="btsignup">Sign up</string>
 </resources>
